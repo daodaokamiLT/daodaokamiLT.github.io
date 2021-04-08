@@ -24,6 +24,8 @@
 
 -----------
 ### [Mapping](https://github.com/daodaokamiLT/Lut_Locus/edit/gh-pages/mapping.md)
+
+-----------
 <!-- ```markdown
 Syntax highlighted code block
 
