@@ -1,2 +1,2 @@
 # Lut_Locus
-life locus
+work&study life locus
